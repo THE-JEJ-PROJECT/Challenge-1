@@ -3,6 +3,7 @@ Jeremy J. Sanchez Diaz,
 Joxanniel J. Irizarry Estrella
 
 Challenge 01 - CCOM4995
+
 Building a simple and nice small house.
 
 ![image](https://github.com/user-attachments/assets/dd8ee510-7541-406c-b953-d9d3fc2df576)
@@ -31,6 +32,7 @@ Steps:
 ![image](https://github.com/user-attachments/assets/3360df08-a95e-4432-aa65-f8b4ef2a5702)
 
 Experience gained:
+
 Eduardo: Even though I didn’t use it for this challenge, I found out how to scale in a singular direction using the rect tool. 
          Doing this house made me get more acquainted with Unity's shortcuts and camera controls to facilitate object placement. 
          For example, holding control while moving an object makes it move in increments. Thus by moving objects that way or just 
