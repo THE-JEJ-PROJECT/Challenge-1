@@ -1,5 +1,5 @@
-Eduardo A. Caceres Vazquez
-Jeremy J. Sanchez Diaz
+Eduardo A. Caceres Vazquez,
+Jeremy J. Sanchez Diaz,
 Joxanniel J. Irizarry Estrella
 
 Challenge 01 - CCOM4995
